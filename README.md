@@ -10,3 +10,8 @@ The aim of this repository is to keep a list of helpful blogs.
 4. [John Atten](http://johnatten.com/)
 5. [John Papa](http://www.johnpapa.net/)
 6. [Scott Allen](http://odetocode.com/blogs/all)
+
+
+Check this out :)
+
+http://pandiyancool.github.io/AwesomeBlogs 
