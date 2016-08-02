@@ -12,6 +12,9 @@ The aim of this repository is to keep a list of helpful blogs.
 6. [Scott Allen](http://odetocode.com/blogs/all)
 
 
+# Articles
+1. [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
+
 Check this out :)
 
 http://pandiyancool.github.io/AwesomeBlogs 
