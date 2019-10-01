@@ -14,7 +14,7 @@ The aim of this repository is to keep a list of helpful blogs.
 
 # Articles
 1. [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
-2. [Introduction to NET Programming] (https://www.geeksforgeeks.org/introduction-to-net-framework/)
+2. [Introduction to NET Programming](https://www.geeksforgeeks.org/introduction-to-net-framework/)
 
 Check this out :)
 
