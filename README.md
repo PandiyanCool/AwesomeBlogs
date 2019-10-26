@@ -27,6 +27,7 @@ The aim of this repository is to keep a list of helpful blogs.
 1. [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 2. [Hadiah Untuk Programmer](https://sekolahkoding.com/buku/hadiah-untuk-programmer)
 3. [HTML CSS Design](http://www.gianmr.com/search/label/css?&max-results=7)
+4. [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
 Check this out :)
 
